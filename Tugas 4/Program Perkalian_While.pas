@@ -1,6 +1,6 @@
 {Nama         :Muhammad Khalish Haidar}
 {NPM          :20.14.1.0061}
-{Nama Program :Perkalian While}
+{Nama Program :Perkalian While }
 
 program perkalian_while;
 uses crt;
